@@ -50,25 +50,3 @@ Cada sección del repositorio contiene ejemplos de código, notebooks de Jupyter
 ¡Disfruta aprendiendo y explorando el emocionante mundo del análisis de datos con Python!
 
 
-GITIGNORE
-
-# Entornos virtuales
-venv/
-env/
-
-# Archivos de caché
-__pycache__/
-
-# Archivos de registro
-*.log
-
-# Archivos de datos generados
-*.csv
-*.xlsx
-*.pkl
-
-# Directorio de resultados
-results/
-
-# Archivos de configuración local
-config.ini
